@@ -1,0 +1,17 @@
+{
+  "name": "Jyotish – Kundli, Horoscope & Panchang",
+  "short_name": "Jyotish",
+  "description": "Vedic astrology: Kundli, daily horoscope, Kundli matching and Panchang.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#d9bf9b",
+  "theme_color": "#d9bf9b",
+  "categories": ["lifestyle"],
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
